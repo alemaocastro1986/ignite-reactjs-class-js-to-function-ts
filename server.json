@@ -9,20 +9,20 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
     {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
-    },
-    {
       "id": 3,
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://img1.gratispng.com/20180613/qex/kisspng-chow-mein-chinese-noodles-lo-mein-fried-noodles-ya-yakisoba-5b216a6b23aad9.6081799715289165871461.jpg",
+      "name": "Yakisoba",
+      "price": "19.00",
+      "description": "Massa, legumes, frango, tempero asiático",
+      "available": true,
+      "id": 4
     }
   ]
 }
